@@ -216,6 +216,10 @@ passwd
 clear
 cekxrayb
 ;;
+86)
+clear
+backup
+;;
 16)
 reboot
 exit
